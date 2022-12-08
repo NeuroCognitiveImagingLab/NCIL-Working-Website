@@ -1,7 +1,7 @@
 ---
 name: Max Mascini
 image: images/Max_Mascini_Photo.png
-description: Honours Student
+description: Independent Research
 role: undergrad
 aliases:
   - M. Mascini
