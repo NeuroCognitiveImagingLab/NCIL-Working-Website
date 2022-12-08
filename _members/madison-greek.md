@@ -1,7 +1,7 @@
 ---
 name: Madison Greek
 image: images/Madison.jpg
-description: Honours Student
+description: Independent Study Student
 role: undergrad
 aliases:
   - M.Greek
