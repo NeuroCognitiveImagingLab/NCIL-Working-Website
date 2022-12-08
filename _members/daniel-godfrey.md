@@ -1,7 +1,7 @@
 ---
 name: Daniel Godfrey
 image: images/DGBioPic.jpg
-description: Master’s student
+description: Masters student
 role: masters
 aliases:
   - D. Godfrey
