@@ -14,9 +14,9 @@ We are located on the 2nd floor of the [Life Sciences Centre]().
   include link.html
   type="email"
   icon=""
-  text="scrooge@mcduck.com"
+  text="NCIL@dal.ca"
   tooltip=""
-  link="scrooge@mcduck.com"
+  link="NCIL@dal.ca"
   style="button"
 %}
 {%
