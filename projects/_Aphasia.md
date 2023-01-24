@@ -34,6 +34,5 @@ In this study people with aphasia have to name hundreds of pictures while their 
 Are you skilled at video editing, and willing to gain experience producing material that is accessible to people with communication disorders? Then this project is perfect for you. The program that we developed features video-tutorials to help people with aphasia making a correct and efficient use of it. As the program will undertake multiple rounds of usability testing, we will need to constantly update the video tutorials.
 
 ##Funding Sources:
-
 NSERC and Nova Scotia Graduate Scholarship (NSGS) funded Francesco directly via bursaries; funding from the Brain Repair Centre was used to fund Francesco and the research; Nova Scotia Health authority funded the research.
 ---
