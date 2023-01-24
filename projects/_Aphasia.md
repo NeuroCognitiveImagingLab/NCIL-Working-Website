@@ -1,4 +1,10 @@
 ---
+title: Aphasia
+nav:
+  order: 2
+  tooltip: Our projects 
+---
+
 # Developing A Prototype Of A Computer-Based Therapy For Aphasia: Usability Testing And Preliminary Assessment Of Efficacy
 
 ## Rationale
