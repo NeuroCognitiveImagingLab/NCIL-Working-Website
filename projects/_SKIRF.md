@@ -1,5 +1,4 @@
 ---
-
 ## What Makes a Skilled Reader? 
 
 # Project Rationale
