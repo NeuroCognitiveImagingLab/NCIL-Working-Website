@@ -1,4 +1,8 @@
-
+---
+title: Madworld
+nav:
+  order: 2
+  tooltip: Our projects 
 ---
 ## The Mango Languages Project
 
@@ -32,4 +36,4 @@ Please go to [this link](https://bit.ly/3wNinP9) to get started
 
 
 If you have any questions, please email us at [madworld@dal.ca](mailto:madworld@dal.ca)
----
+
