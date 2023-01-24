@@ -1,4 +1,9 @@
 ---
+title: BCI
+nav:
+  order: 2
+  tooltip: Our projects 
+---
 # Novel Hybrid-Input Brain-Computer Interface to Improve Target Response Distinction and Classification Accuracy
 
 ## Project Rationale
@@ -24,4 +29,3 @@ We are finalizing the stimulus protocol for Phase 1, and will be collecting data
 
 Overall, this is a complex study that intersects neuroscience, computer science, and data science. Involvement opportunities exist at all levels (volunteer, independent study, honours, graduate students) during any phase. Note that while domain knowledge is considered an asset, especially [NESC/PSYO 3505 *Neural Data Science*](https://dalpsychneuro.github.io/NESC_3505/), it may not be required for some roles/tasks. 
 
----
