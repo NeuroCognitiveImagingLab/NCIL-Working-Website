@@ -1,6 +1,6 @@
 ---
 name: Danny Godfrey
-image: images/Daniel Gdfrey photo.jpg
+image: images/Daniel Godfrey photo.jpg
 description: PhD Candidate
 role: 
 aliases:
