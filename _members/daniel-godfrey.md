@@ -1,8 +1,8 @@
 ---
 name: Danny Godfrey
 image: images/DGBioPic.jpg
-description: PhD Candidate
-role: 
+description: PhD Student
+role: phd
 aliases:
   - D.Godfrey
 links:
