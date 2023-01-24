@@ -43,4 +43,3 @@ Are you skilled at video editing, and willing to gain experience producing mater
 
 NSERC and Nova Scotia Graduate Scholarship (NSGS) funded Francesco directly via bursaries; funding from the Brain Repair Centre was used to fund Francesco and the research; Nova Scoait Health Authority funded the research.
 
----
