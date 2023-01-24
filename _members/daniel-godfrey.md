@@ -4,7 +4,7 @@ image: images/DGBioPic.jpg
 description: Masters student
 role: masters
 aliases:
-  - D. Godfrey
+  - D.Godfrey
 links:
   email: daniel.godfrey@dal.ca
 ---
