@@ -1,4 +1,10 @@
 ---
+
+title: What Makes a Skilled Reader?
+nav:
+  order: 2
+  tooltip: Our projects 
+
 # What Makes a Skilled Reader? 
 
 ## Project Rationale
