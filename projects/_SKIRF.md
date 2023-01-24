@@ -17,7 +17,7 @@ The goal of this study is to investigate the relationship between reading skills
 Currently, we're preparing for data collection to begin February 2023. If you would like more information on participating or volunteering in this study, please contact us at reading_brains@NCILab.ca.
 
 ## Funding
-This project is funded by the Social Science and Humanities Reseaerch Council (SSHRC) and approved by the Research Ethics Board of the IWK Hospital.
+This project is funded by the Social Science and Humanities Reseaerch Council (SSHRC).
 
 ___
 
