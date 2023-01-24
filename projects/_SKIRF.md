@@ -26,6 +26,3 @@ Currently, we're preparing for data collection to begin February 2023. If you wo
 
 ## Funding
 This project is funded by the Social Science and Humanities Reseaerch Council (SSHRC).
-
-___
-
