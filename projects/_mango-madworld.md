@@ -4,7 +4,7 @@ nav:
   order: 2
   tooltip: Our projects 
 ---
-## The Mango Languages Project
+## The Madworld-Mango Languages Project
 
 The goal of this study is to learn if an app is useful in helping people to improve their English abilities. The NeuroCognitive Imaging Lab at Dalhousie University has partnered with the Mango Languages app to conduct this study.
 ## What You Will Be Asked to Do
