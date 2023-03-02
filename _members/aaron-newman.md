@@ -5,8 +5,9 @@ description: Lab Director
 role: pi
 aliases:
   - A. Newman
+  - A.J. Newman
 links:
   email: Aaron.Newman@dal.ca
 ---
 
-Aaron is a full Professor in Psychology, Psychiatry, Surgery, and Pediatrics at Dalhousie University. He is a member of the Brain Repair Centre, and is on the Scientific Staff of the QEII Hospital and the IWK Health Centre.
+Aaron is a Professor in the Department of Psychology & Neuroscience at Dalhousie University. He holds cross-appointments in the Departments of Pediatrics, Psychiatry, and Surgery, supporting interdisciplinary interactions. He is a member of the Brain Repair Centre, and is on the Scientific Staff of the QEII Hospital and the IWK Health Centre.
