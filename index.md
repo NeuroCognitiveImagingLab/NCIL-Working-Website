@@ -2,9 +2,9 @@
 title: Home
 ---
 
-# The NeuroCognitive Imaging Lab
+# NeuroCognitive Imaging Lab (NCIL)
 
-The NeuroCognitive Imaging Lab (NCIL) at Dalhousie University is devoted to improving quality of life through brain research. The ultimate goal of the lab is to help people live healthier, happier, and more productive lives. To this end, our activities follow a cycle including basic research, active participation in clinical settings, clinical research, and knowledge translation and commercialization. 
+We are a resaerch laboratory housed in the Department of Psychology and Neuroscience at Dalhousie University in Halifax, NS, Canada. NCIL is devoted to improving quality of life through brain research. The ultimate goal of our research is to help people live healthier, happier, and more productive lives. We follow a cycle including basic research, active participation in clinical settings, clinical research, and knowledge translation and commercialization. 
 
 {:.center}
 
@@ -14,28 +14,28 @@ The NeuroCognitive Imaging Lab (NCIL) at Dalhousie University is devoted to impr
 
 {% include section.html %}
 
-## Our Research
-In the NeuroCognitive Imaging Lab, we study neuroplasticity. That is, how the brain’s organization can be affected by experience, and how this can be adaptive or disruptive in different situations. 
-Various research projects in the lab have considered topics such as:
+## Research
+NCIL's research is focused on **Neuroplasticity**: how the brain is changed by experience. Neuroplasticity is an innate capacity of the brain. It includes changes that occur during development, learning (such as learning a new language), recovery from injury (such as a stroke), 
+adaptation to the loss of a sense (such the loss of hearing or sight), and many other things.
+
+In our lab, we mostly use **neuroimaging** tools like MRI and EEG to study the brain. These tools are non-invasive (they are safe and painless) and give us amazing abilities to see where and when things are happening in the brain. You can learn more about these tools under the Neuroimaging link at the top of the page.
+
+Current research projects in the lab are focused on a number of different topics, including:
 * Reading Development
 * Second Language Learning
 * Aphasia (an acquired language disorder)
-* BCI
+* Brain-Computer Interfaces
 
-Due to the broad range of research that takes place in the lab, we are often searching for participants from diverse backgrounds. This ranges from elementary school children, to young adults, older adults, and individuals with different language learning experiences.
+You can learn more about our research projects under the Projects link at the top of the page.
 
+## Do you want to participate in one of our studies?
+
+We are often searching for volunteers to participate in our studies. Depending on what studies are acctive, we might be looking for elementary school children, young adults, older adults, people with different language learning experiences, or people with certain clinical conditions (such as stroke or vision problems). However, in order for our research to be done properly, each study has specific criteria for participation. If you are interested in participating, please click the link below.
 
 {%
   include link.html
   link="research"
-  text="Find out if you or someone you know is eligible to participate in our research"
-  icon="fas fa-arrow-right"
-  flip=true
-%}
-{%
-  include link.html
-  link="research"
-  text="Find out more about the research going on at the NeuroCognitive Imaging Lab"
+  text="Find out more about participating in a research study"
   icon="fas fa-arrow-right"
   flip=true
 %}
