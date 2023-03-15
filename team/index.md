@@ -24,7 +24,7 @@ Great people doing amazing work is what makes NCIL. Here’s who we are:
 
 {% include section.html %}
 
-## Undergraduate Students
+## Undergraduate
 {% include list.html data="members" component="portrait" filters="role: undergrad, group: " %}
 
 {% include section.html background="images/banner.jpg" dark=true%}
