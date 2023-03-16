@@ -57,9 +57,9 @@ Our work is made possible by funding from several organizations.
   include gallery.html
   style="square"
 
-  image1="images/photo.jpg"
-  link1="https://nasa.gov/"
-  tooltip1="Cool Foundation"
+  image1="images/sshrc-fip-full-color-eng.jpg"
+  link1="https://www.sshrc-crsh.gc.ca/home-accueil-eng.aspx"
+  tooltip1="SSHRC"
 
   image2="images/photo.jpg"
   link2="https://nasa.gov/"
