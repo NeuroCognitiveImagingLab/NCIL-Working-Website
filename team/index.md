@@ -14,17 +14,12 @@ Great people doing amazing work is what makes NCIL. Here’s who we are:
 {% include list.html data="members" component="portrait" filters="role: programmer, group: " %}
 {% include list.html data="members" component="portrait" filters="role: mascot, group: " %}
 
-## Postdoctoral Fellows
-{% include list.html data="members" component="portrait" filters="role: postdoc, group: " %}
-
-{% include section.html %}
-
 ## Graduate Students
 {% include list.html data="members" component="portrait" filters="role: phd, group: " %}
 
 {% include section.html %}
 
-## Undergraduate
+## Undergraduate Students
 {% include list.html data="members" component="portrait" filters="role: undergrad, group: " %}
 
 {% include section.html background="images/banner.jpg" dark=true%}
