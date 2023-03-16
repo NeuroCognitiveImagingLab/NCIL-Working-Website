@@ -4,7 +4,7 @@ title: Home
 
 # NeuroCognitive Imaging Lab (NCIL)
 
-We are a resaerch laboratory housed in the Department of Psychology and Neuroscience at Dalhousie University in Halifax, NS, Canada. NCIL is devoted to improving quality of life through brain research. The ultimate goal of our research is to help people live healthier, happier, and more productive lives. We follow a cycle including basic research, active participation in clinical settings, clinical research, and knowledge translation and commercialization. 
+We are a research laboratory housed in the Department of Psychology and Neuroscience at Dalhousie University in Halifax, NS, Canada. NCIL is devoted to improving quality of life through brain research. The ultimate goal of our research is to help people live healthier, happier, and more productive lives. We follow a cycle including basic research, active participation in clinical settings, clinical research, and knowledge translation and commercialization. 
 
 {:.center}
 
