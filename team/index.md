@@ -55,7 +55,6 @@ Our work is made possible by funding from several organizations.
 
 {%
   include gallery.html
-  style="square"
 
   image1="images/sshrc-fip-full-color-eng.jpg"
   link1="https://www.sshrc-crsh.gc.ca/home-accueil-eng.aspx"
