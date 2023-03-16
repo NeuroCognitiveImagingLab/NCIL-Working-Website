@@ -3,8 +3,8 @@
 # site properties and page defaults
 title: NCIL
 description: The NeuroCognitive Imaging Lab
-header: images/background.jpg
-footer: images/background.jpg
+header: none
+footer: none
 logo: images/NCIL_Dal.png
 baseurl: /NCIL-Working-Website
 
