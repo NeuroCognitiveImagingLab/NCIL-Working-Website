@@ -3,8 +3,9 @@
 # site properties and page defaults
 title: NCIL
 description: The NeuroCognitive Imaging Lab
-header: images/background.jpg
-footer: images/background.jpg
+header: images/header_brainscans2.jpg
+footer: images/header_brainscans2.jpg
+logo: images/NCIL_Dal.png
 baseurl: /NCIL-Working-Website
 
 # site social media and other links
@@ -13,8 +14,8 @@ links:
   google-scholar: Aaron Newman
   github: NeuroCognitiveImagingLab
   twitter: NCILab
-  instagram: YourLabHandle
-  youtube: YourLabChannel
+  instagram: ncilab
+  youtube: NeuroCognitiveImagingLab
 
 ### advanced settings
 
