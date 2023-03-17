@@ -33,18 +33,6 @@ Current research projects in the lab are focused on a number of different topics
 
 You can learn more about our research projects under the Projects link at the top of the page.
 
-## Do you want to participate in one of our studies?
-
-We are often searching for volunteers to participate in our studies. Depending on what studies are acctive, we might be looking for elementary school children, young adults, older adults, people with different language learning experiences, or people with certain clinical conditions (such as stroke or vision problems). However, in order for our research to be done properly, each study has specific criteria for participation. If you are interested in participating, please click the link below.
-
-{%
-  include link.html
-  link="research"
-  text="Find out more about participating in a research study"
-  icon="fas fa-arrow-right"
-  flip=true
-%}
-{:.center}
 
 ## Our Resources
 The NeuroCognitive Imaging lab makes extensive use of brain imaging technologies including:
@@ -66,7 +54,7 @@ As well, the lab has collaborations with other labs, individual researchers, and
 ## Our Team
 {:.center}
 
-The NeuroCognitive Imaging lab is a group of enthusiastic researchers interested in cognitive neuroscience. Our team comprises individuals with diverse backgrounds, interests, and skill sets. This includes undergraduate and graduate students, postdoctoral scholars, and professional research assistants. 
+The NeuroCognitive Imaging lab is a group of enthusiastic researchers interested in cognitive neuroscience. Our team comprises individuals with diverse backgrounds, interests, and skill sets. This includes undergraduate and graduate students, postdoctoral scholars, and professional research assistants. If you are interested in joining the lab as a volunteer, student, or other trainee, please contact us! 
 
 NCIL is committed to providing a safe, diverse, inclusive, and equitable environment for learning and working. We welcome trainees from all backgrounds, both locally and internationally. In particular, we welcome and encourage participation by people from African Nova Scotian and Mi'kmaq communities. We recognize the barriers to participation in academia that these and other groups have experienced, and we actively work to support future scholars from historically marginalized communities.
 
@@ -77,4 +65,17 @@ NCIL is committed to providing a safe, diverse, inclusive, and equitable environ
   icon="fas fa-arrow-right"
   flip=true
 %}
+## Do you want to participate in one of our studies?
+
+We are often searching for volunteers to participate in our studies. Depending on what studies are acctive, we might be looking for elementary school children, young adults, older adults, people with different language learning experiences, or people with certain clinical conditions (such as stroke or vision problems). However, in order for our research to be done properly, each study has specific criteria for participation. If you are interested in participating, please click the link below.
+
+{%
+  include link.html
+  link="research"
+  text="Find out more about participating in a research study"
+  icon="fas fa-arrow-right"
+  flip=true
+%}
+{:.center}
+
 {:.center}
