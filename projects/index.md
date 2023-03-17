@@ -4,3 +4,13 @@ nav:
   order: 2
   tooltip: Our projects 
 ---
+
+# {% include icon.html icon="fa-solid fa-wrench" %}Projects
+
+Here are the projects we are working on at NCIL:
+
+{% include section.html %}
+
+{% include list.html data=”projects" component="portrait" filters="project: " %}
+
+{% include section.html %}
