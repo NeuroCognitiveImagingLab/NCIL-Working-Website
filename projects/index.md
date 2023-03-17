@@ -11,6 +11,6 @@ Here are the projects we are working on at NCIL:
 
 {% include section.html %}
 
-{% include list.html data=”_projects" component="portrait" filters="role: project, group: "%}
+{% include list.html data=”projects" component="portrait" filters="role: project, group: "%}
 
 {% include section.html %}
