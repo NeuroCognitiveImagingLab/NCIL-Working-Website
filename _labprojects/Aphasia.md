@@ -1,9 +1,10 @@
 ---
 name: Aphasia
 image: images/FU_Bio_Pic.JPG
-description:
+description: Aphasia
 role: project
-aliases:
+aliases: 
+  - aphasia
 links:
   email:
 ---
