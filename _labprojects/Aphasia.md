@@ -1,6 +1,6 @@
 ---
 name: Aphasia
-image:
+image: images/FU_Bio_Pic.JPG
 description:
 role: project
 aliases:
