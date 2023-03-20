@@ -1,12 +1,5 @@
 ---
-name: Aphasia
-image: images/FU_Bio_Pic.JPG
-description: Aphasia
-role: project
-aliases: 
-  - aphasia
-links:
-  email:
+title: Aphasia
 ---
 
 # Developing A Prototype Of A Computer-Based Therapy For Aphasia: Usability Testing And Preliminary Assessment Of Efficacy

@@ -1,8 +1,5 @@
 ---
 title: WERP
-nav:
-  order: 2
-  tooltip: Our projects 
 ---
 
 # Welsh Event Related Potential (WERP)

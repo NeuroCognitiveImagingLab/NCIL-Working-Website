@@ -1,8 +1,5 @@
 ---
 title: Madworld
-nav:
-  order: 2
-  tooltip: Our projects 
 ---
 ## The Madworld-Mango Languages Project
 

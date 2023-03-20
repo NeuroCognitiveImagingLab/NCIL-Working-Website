@@ -1,8 +1,5 @@
 ---
 title: Project Homework
-nav:
-  order: 2
-  tooltip: Our projects 
 ---
 
 # Project Homework: An investigation into cognitive factors in remote collaboration and remote work platforms

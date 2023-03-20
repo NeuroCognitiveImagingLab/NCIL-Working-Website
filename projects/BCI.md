@@ -1,8 +1,5 @@
 ---
 title: BCI
-nav:
-  order: 2
-  tooltip: Our projects 
 ---
 # Novel Hybrid-Input Brain-Computer Interface to Improve Target Response Distinction and Classification Accuracy
 
