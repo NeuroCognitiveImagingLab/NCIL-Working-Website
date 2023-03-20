@@ -19,20 +19,13 @@ Here are the projects we are working on at NCIL:
 %}
 
 {%
-  include feature.html
-  image="images/photo.jpg"
-  link="https://neurocognitiveimaginglab.github.io/NCIL-Working-Website/projects/BCI"
-  title="Novel Hybrid-Input Brain-Computer Interface to Improve Target Response Distinction and Classification Accuracy"
-  text="A brain-computer interface (BCI) is an electronic system that can convert an individual’s brain activity into control commands to operate devices, allowing systems to receive input directly from task-related brain signals. For this reason, BCIs offer promising assistive technology solutions for people suffering with severe motor dysfunction. This project aims to maximize the performance of a BCI to distinguish target responses, for any user, at any time. This project will be recruiting participants beginning in January of 2023."
+  include link.html
+  link="projects/Aphasia"
+  text="Find out more about this study"
+  icon="fas fa-arrow-right"
+  flip=true
 %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="https://neurocognitiveimaginglab.github.io/NCIL-Working-Website/projects/mango-madworld"
-  title="MANGO"
-  text=""
-%}
+{:.center}
 
 {%
   include feature.html
@@ -43,12 +36,47 @@ Here are the projects we are working on at NCIL:
 %}
 
 {%
+  include link.html
+  link="projects/Project-Homework"
+  text="Find out more about this study"
+  icon="fas fa-arrow-right"
+  flip=true
+%}
+{:.center}
+
+{%
   include feature.html
   image="images/photo.jpg"
-  link="https://neurocognitiveimaginglab.github.io/NCIL-Working-Website/projects/SKIRF"
+  link="https://neurocognitiveimaginglab.github.io/NCIL-Working-Website/projects/BCI"
+  title="Novel Hybrid-Input Brain-Computer Interface to Improve Target Response Distinction and Classification Accuracy"
+  text="A brain-computer interface (BCI) is an electronic system that can convert an individual’s brain activity into control commands to operate devices, allowing systems to receive input directly from task-related brain signals. For this reason, BCIs offer promising assistive technology solutions for people suffering with severe motor dysfunction. This project aims to maximize the performance of a BCI to distinguish target responses, for any user, at any time. This project will be recruiting participants beginning in January of 2023."
+%}
+
+{%
+  include link.html
+  link="projects/BCI"
+  text="Find out more about this study"
+  icon="fas fa-arrow-right"
+  flip=true
+%}
+{:.center}
+
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="https://neurocognitiveimaginglab.github.io/NCIL-Working-Website/projects/What-Makes-a-Skilled-Reader"
   title="What Makes a Skilled Reader?"
   text="What Makes a Skilled Reader? The Neurocognitive Imaging Lab needs your help to find out! We’re looking for students in Grades 2 & 3 who speak English at home and at school, with normal hearing and normal (or corrected to normal) vision, to take part in a longitudinal neuroimaging study. The goal of the study is to characterize how individual differences in reading skills relate to children’s patterns of brain activation, and how these relationships change from Grade 2 to Grade 5. This project will be recruiting participants in 2023."
 %}
+
+{%
+  include link.html
+  link="projects/What-Makes-a-Skilled-Reader"
+  text="Find out more about this study"
+  icon="fas fa-arrow-right"
+  flip=true
+%}
+{:.center}
 
 {%
   include feature.html
@@ -57,5 +85,31 @@ Here are the projects we are working on at NCIL:
   title="Welsh Event Related Potential Study"
   text="Learning a new language is challenging for most adults, and it has been shown that it can be more difficult if the learner is using their first language during the process. Therefore, this project investigates adult language learning of Welsh words, and uses electroencephalography (EEG) to explore how speaking English versions of the newly learned Welsh words will alter brain activity. This project will be recruiting participants in 2023."
 %}
+
+{%
+  include link.html
+  link="projects/WERP"
+  text="Find out more about this study"
+  icon="fas fa-arrow-right"
+  flip=true
+%}
+{:.center}
+
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="https://neurocognitiveimaginglab.github.io/NCIL-Working-Website/projects/mango-madworld"
+  title="MANGO"
+  text=""
+%}
+
+{%
+  include link.html
+  link="projects/mango-madworld"
+  text="Find out more about this study"
+  icon="fas fa-arrow-right"
+  flip=true
+%}
+{:.center}
 
 {% include section.html %}
