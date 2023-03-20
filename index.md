@@ -44,7 +44,7 @@ Current research projects in the lab are focused on a number of different topics
 
 {% include section.html full=true %}
 
-{% include banner.html image="images/DSC_3730-copy-2.jpg" %}
+{% include banner.html image="images/aaron_with_book.jpg" %}
 
 {% include section.html %}
 
@@ -54,7 +54,7 @@ The NeuroCognitive Imaging lab makes extensive use of brain imaging technologies
 - Event-related brain potentials (ERP)
 - Magnetoencephalography (MEG)
 
-Our lab houses two 64-channel EEG systems as well as servers for data storage and analysis. We make use of the MRI and MEG facilities available locally at the IWK and QEII Health Centres. W ecollaborate with other labs, researchers, and organizations to develop and complete innovative research objectives.
+Our lab houses two 64-channel EEG systems as well as servers for data storage and analysis. We make use of the MRI and MEG facilities available locally at the IWK and QEII Health Centres. We collaborate with other labs, researchers, and organizations to develop and complete innovative research objectives.
 
 To support the growth of the field, lab director Dr. Aaron Newman has written textbooks on [neuroimaging](https://uk.sagepub.com/en-gb/eur/research-methods-for-cognitive-neuroscience/book242924) and [neural data science](https://neuraldatascience.io/intro.html) in Python.
 
@@ -66,6 +66,12 @@ To support the growth of the field, lab director Dr. Aaron Newman has written te
   flip=true
 %}
 {:.center}
+
+{% include section.html full=true %}
+
+{% include banner.html image="images/cindy_eeg_1.jpg" %}
+
+{% include section.html %}
 
 ## Our Team
 {:.center}
@@ -81,13 +87,16 @@ NCIL is committed to providing a safe, diverse, inclusive, and equitable environ
   icon="fas fa-arrow-right"
   flip=true
 %}
+
+{:.center}
+
 ## Do you want to participate in one of our studies?
 
 Due to the broad range of research that takes place in the lab, we are often searching for participants from diverse backgrounds. Depending on what studies are active, we might be looking for elementary school children, young adults, older adults, people with different language learning experiences, or people with certain clinical conditions (such as stroke or vision problems). However, in order for our research to be scientifically rigourous, each study has specific criteria for participation. If you are interested in participating, please click the link below.
 
 {%
   include link.html
-  link="research"
+  link="participate"
   text="Find out more about participating in a research study"
   icon="fas fa-arrow-right"
   flip=true
