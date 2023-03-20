@@ -13,3 +13,8 @@ Using EEG during learning of Welsh words, we plan to explore how speaking Englis
 ## Current State of Project and Lab Volunteer Contribution Opportunities
 
 This project is still in the development phase and should be collecting data in the 2022-23 academic year. Once it is running, there will be opportunities for lab volunteers to assist in data collection.
+
+## Funding Sources
+
+Funding comes from the NSGS-Doctoral scholarship.
+

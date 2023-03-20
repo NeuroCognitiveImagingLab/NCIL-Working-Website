@@ -60,4 +60,12 @@ Our work is made possible by funding from several organizations.
   link1="https://www.sshrc-crsh.gc.ca/home-accueil-eng.aspx"
   tooltip1="SSHRC"
 
+  image2="images/NSERC_FIP_RGB.PNG"
+  link2="https://www.nserc-crsng.gc.ca/index_eng.asp"
+  tooltip2="NSERC"
+
+  image3="images/DMRF_Logo.svg"
+  link3="https://dmrf.ca/"
+  tooltip3="DMRF"
+
 %}
