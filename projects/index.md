@@ -18,4 +18,12 @@ Here are the projects we are working on at NCIL:
   text=""
 %}
 
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="https://neurocognitiveimaginglab.github.io/NCIL-Working-Website/projects/BCI"
+  title="Brain-Computer Interfaces"
+  text=""
+%}
+
 {% include section.html %}
