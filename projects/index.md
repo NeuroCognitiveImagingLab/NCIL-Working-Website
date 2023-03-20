@@ -112,4 +112,21 @@ Here are the projects we are working on at NCIL:
 %}
 {:.center}
 
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="https://neurocognitiveimaginglab.github.io/NCIL-Working-Website/projects/Production-Effect"
+  title="Production Effect Project"
+  text=""
+%}
+
+{%
+  include link.html
+  link="projects/Production-Effect"
+  text="Find out more about this study"
+  icon="fas fa-arrow-right"
+  flip=true
+%}
+{:.center}
+
 {% include section.html %}
