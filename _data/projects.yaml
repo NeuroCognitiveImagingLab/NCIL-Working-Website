@@ -1,0 +1,9 @@
+- title: Aphasia
+  subtitle: a subtitle
+  group: featured
+  image: images/photo.jpg
+  link: https://neurocognitiveimaginglab.github.io/NCIL-Working-Website/projects/Aphasia
+  description:
+  repo: NeuroCognitiveImagingLab/NCIL-Working-Website
+  tags:
+    - project
