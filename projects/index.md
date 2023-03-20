@@ -14,7 +14,7 @@ Here are the projects we are working on at NCIL:
   include list.html
   data="projects"
   component="portrait"
-  filters="group: "
+  filters="group: featured"
   style="rich"
 %}
 
