@@ -44,6 +44,11 @@ defaults:
       type: "posts"
     values:
       layout: post
+    # markdown files in /_labprojects
+  - scope:
+      type: "labprojects"
+    values:
+      layout: labprojects
 
 # collections
 collections:
