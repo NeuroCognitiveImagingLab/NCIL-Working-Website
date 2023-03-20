@@ -87,7 +87,6 @@ NCIL is committed to providing a safe, diverse, inclusive, and equitable environ
   icon="fas fa-arrow-right"
   flip=true
 %}
-
 {:.center}
 
 ## Do you want to participate in one of our studies?
