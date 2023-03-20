@@ -10,18 +10,52 @@ nav:
 Here are the projects we are working on at NCIL:
 {:.center}
 
-{% include feature.html style="square"
-  image1="images/photo.jpg" link1="https://neurocognitiveimaginglab.github.io/NCIL-Working-Website/projects/Aphasia" title1="Aphasia"
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="https://neurocognitiveimaginglab.github.io/NCIL-Working-Website/projects/Aphasia"
+  title="Aphasia"
+  text=""
+%}
 
-  image2="images/photo.jpg" link2="https://neurocognitiveimaginglab.github.io/NCIL-Working-Website/projects/BCI" title2="Brain-Computer Interfaces"
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="https://neurocognitiveimaginglab.github.io/NCIL-Working-Website/projects/BCI"
+  title="Brain-Computer Interfaces"
+  text=""
+%}
 
-  image3="images/photo.jpg" link3="https://neurocognitiveimaginglab.github.io/NCIL-Working-Website/projects/mango-madworld" title3="MANGO"
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="https://neurocognitiveimaginglab.github.io/NCIL-Working-Website/projects/mango-madworld"
+  title="MANGO"
+  text=""
+%}
 
-  image4="images/photo.jpg" link4="https://neurocognitiveimaginglab.github.io/NCIL-Working-Website/projects/Project-Homework" title4="Project Homework"
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="https://neurocognitiveimaginglab.github.io/NCIL-Working-Website/projects/Project-Homework"
+  title="Project Homework"
+  text=""
+%}
 
-  image5="images/photo.jpg" link5="https://neurocognitiveimaginglab.github.io/NCIL-Working-Website/projects/SKIRF" title5="What Makes a Skilled Reader?"
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="https://neurocognitiveimaginglab.github.io/NCIL-Working-Website/projects/SKIRF"
+  title="What Makes a Skilled Reader?"
+  text=""
+%}
 
-  image6="images/photo.jpg" link6="https://neurocognitiveimaginglab.github.io/NCIL-Working-Website/projects/WERP" title6="Welsh Event Related Potential"
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="https://neurocognitiveimaginglab.github.io/NCIL-Working-Website/projects/WERP"
+  title="Welsh Event Related Potential"
+  text=""
 %}
 
 {% include section.html %}
