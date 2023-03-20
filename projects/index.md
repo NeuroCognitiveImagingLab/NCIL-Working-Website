@@ -99,7 +99,7 @@ Here are the projects we are working on at NCIL:
   include feature.html
   image="images/photo.jpg"
   link="https://neurocognitiveimaginglab.github.io/NCIL-Working-Website/projects/mango-madworld"
-  title="MANGO"
+  title="The Madworld-Mango Languages Project"
   text=""
 %}
 
