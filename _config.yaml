@@ -44,7 +44,7 @@ defaults:
       type: "posts"
     values:
       layout: post
-    # markdown files in /_labprojects
+  # markdown files in /_labprojects
   - scope:
       type: "members"
     values:
