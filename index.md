@@ -19,20 +19,34 @@ We recognize that African Nova Scotians are a distinct people whose histories, l
 
 {% include section.html %}
 
-## Research
+## Our Research
 NCIL's research is focused on **Neuroplasticity**: how the brain is changed by experience. Neuroplasticity is an innate capacity of the brain. It includes changes that occur during development, learning (such as learning a new language), recovery from injury (such as a stroke), 
 adaptation to the loss of a sense (such the loss of hearing or sight), and many other things.
 
 In our lab, we mostly use **neuroimaging** tools like MRI and EEG to study the brain. These tools are non-invasive (they are safe and painless) and give us amazing abilities to see where and when things are happening in the brain. You can learn more about these tools under the Neuroimaging link at the top of the page.
 
 Current research projects in the lab are focused on a number of different topics, including:
+* Basic Language Processing
 * Reading Development
 * Second Language Learning
 * Brain-Computer Interfaces
 * Aphasia (an acquired language disorder)
+* Advanced analysis approaches for EEG and fMRI
 
-You can learn more about our research projects under the Projects link at the top of the page.
+{%
+  include link.html
+  link="projects"
+  text="Find out more about the research going on at the NeuroCognitive Imaging Lab"
+  icon="fas fa-arrow-right"
+  flip=true
+%}
+{:.center}
 
+{% include section.html full=true %}
+
+{% include banner.html image="images/DSC_3730-copy-2.jpg" %}
+
+{% include section.html %}
 
 ## Our Resources
 The NeuroCognitive Imaging lab makes extensive use of brain imaging technologies including:
