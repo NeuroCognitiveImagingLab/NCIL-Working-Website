@@ -10,9 +10,10 @@ nav:
 Great people doing amazing work is what makes NCIL. Here’s who we are:
 {:.center}
 
+## Staff
 {% include list.html data="members" component="portrait" filters="role: pi, group: " %}
-{% include list.html data="members" component="portrait" filters="role: programmer, group: " %}
-{% include list.html data="members" component="portrait" filters="role: mascot, group: " %}
+
+{% include section.html %}
 
 ## Graduate Students
 {% include list.html data="members" component="portrait" filters="role: phd, group: " %}
@@ -22,7 +23,7 @@ Great people doing amazing work is what makes NCIL. Here’s who we are:
 ## Undergraduate Students
 {% include list.html data="members" component="portrait" filters="role: undergrad, group: " %}
 
-{% include section.html background="images/banner_joinus.jpg" dark=true%}
+{% include section.html background="images/20111102_BrainRepair_01.jpg" dark=true%}
 
 {%
   include link.html
@@ -35,8 +36,35 @@ Great people doing amazing work is what makes NCIL. Here’s who we are:
 
 {% include section.html %}
 
-## Alumni
+## Collaborators
 
+## Partners
+{%
+  include gallery.html
+
+  image1=""
+  link1="https://www.surgeinnovation.ca/"
+  tooltip1="SURGE"
+
+  image2="images/Ensuring_Full_Literacy_logo.png"
+  link2="https://ensuringliteracy.ca/"
+  tooltip2="Ensuring Full Literacy (SSHRC Partnership Grant)"
+
+  image3="images/BRC_logo.png"
+  link3="https://www.brainrepair.ca/"
+  tooltip3="Brain Repair Centre"
+
+  image4="images/IWKLOGO.png"
+  link4="https://www.iwk.nshealth.ca/"
+  tooltip4="IWK Health Centre"
+
+  image5="images/QEII_logo.svg"
+  link5="https://qe2foundation.ca/"
+  tooltip5="QEII Health Sciences Centre Foundation"
+
+%}
+
+## Alumni
 Gone but never forgotten.
 These are past lab members who have moved on to other school programs, new jobs, or elsewhere.
 
@@ -48,8 +76,8 @@ These are past lab members who have moved on to other school programs, new jobs,
 {% include list.html data="members" component="portrait" filters="role: mascot, group: alum" style="small" %}
 
 {% include section.html %}
-## Funding
 
+## Funding
 Our work is made possible by funding from several organizations.
 {:.center}
 
