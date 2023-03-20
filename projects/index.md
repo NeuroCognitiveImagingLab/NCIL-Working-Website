@@ -15,7 +15,7 @@ Here are the projects we are working on at NCIL:
   image="images/photo.jpg"
   link="https://neurocognitiveimaginglab.github.io/NCIL-Working-Website/projects/Aphasia"
   title="Aphasia"
-  text="Aphasia"
+  text=""
 %}
 
 {% include section.html %}
