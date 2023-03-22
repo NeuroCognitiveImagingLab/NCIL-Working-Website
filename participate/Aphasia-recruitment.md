@@ -30,6 +30,6 @@ Participants will take part in this study from their home, as the study will be 
 4. Follow Up Assessment (Sessions 16-17): Follow ups will occur 1 week after the last training session and 1 month after the last training session, and participants will name the pictures they performed training on. 
 
 
-Interested? Want to learn more? 
+_Interested? Want to learn more?_ 
 Contact us by email  (aphasia_study@ncilab.ca) or by phone (902-494-1911).  
 We look forward to hearing from you!
