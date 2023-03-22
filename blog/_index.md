@@ -1,8 +1,5 @@
 ---
 title: Blog
-nav:
-  order:
-  tooltip: Musings and miscellany
 ---
 
 # <i class="fas fa-feather-alt"></i>Blog
