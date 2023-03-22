@@ -1,11 +1,10 @@
 ---
-title: Aphasia
+title: Madworld-Mango
 ---
 
-{% include figure.html image="images/ML-Logo-Header.svg" %}
-{% include figure.html image="images/DAL_LogoHorz_RGB.png" %}
-{% include figure.html image="images/SFU_horizontal_logo_rgb.png" %}
-
+{%include figure.html image="images/ML-Logo-Header.svg" width="400px"%}
+{% include figure.html image="images/DAL_LogoHorz_RGB.png" width="400px"%}
+{% include figure.html image="images/SFU_horizontal_logo_rgb.png" width="400px"%}
 
 # The Mango Languages Project
 

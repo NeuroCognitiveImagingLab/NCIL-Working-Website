@@ -1,5 +1,5 @@
 ---
-title: Madworld
+title: Madworld-Mango
 ---
 ## The Madworld-Mango Languages Project
 
