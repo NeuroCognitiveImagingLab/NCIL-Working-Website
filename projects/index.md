@@ -105,7 +105,7 @@ Here are the projects we are working on at NCIL:
 
 {%
   include link.html
-  link="projects/mango-madworld"
+  link="projects/Madworld-Mango"
   text="Find out more about this study"
   icon="fas fa-arrow-right"
   flip=true
