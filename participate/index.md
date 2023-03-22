@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-users"></i>Participate
 
-Interested in participating in one of studies? Click the links below to find out more!
+Interested in participating in one of our studies? Click the links below to find out more!
 {:.center}
 
 {%
