@@ -1,11 +1,10 @@
 ---
 title: Aphasia
 ---
+{% include banner.html image="images/ML-Logo-Header.svg" %}
+{% include banner.html image="images/DAL_LogoHorz_RGB.png" %}
+{% include banner.html image="images/SFU_horizontal_logo_rgb.png" %}
 
-![Mango Languages](https://mangolanguages.com/wp-content/uploads/2022/01/mango-languages-logo.png)
-
-![Dal logo]()
-![SFU logo]()
 
 # The Mango Languages Project
 
