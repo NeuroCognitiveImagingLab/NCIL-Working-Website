@@ -1,7 +1,7 @@
 ---
 name: Saisha Rankaduwa
 image: images/Saisha_Rankaduwa_Photo.jpg
-description: Masters Student
+description: Master's Student
 role: phd
 aliases:
   - S. Rankaduwa
