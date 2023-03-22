@@ -42,7 +42,7 @@ Great people doing amazing work is what makes NCIL. Here’s who we are:
 {%
   include gallery.html
 
-  image1=""
+  image1="images/SURGE/S_Color_horizontal_medium_lightBG.png"
   link1="https://www.surgeinnovation.ca/"
   tooltip1="SURGE"
 
