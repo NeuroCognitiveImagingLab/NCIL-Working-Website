@@ -11,22 +11,38 @@ Interested in participating in one of studies? Click the links below to find out
 {:.center}
 
 {%
-  include gallery.html
-  image1="images/photo.jpg"
-  link1="participate/What-Makes-a-Skilled-Reader-recruitment"
-  tooltip1="What Makes a Skilled Reader?"
+  include link.html
+  link="participate/What-Makes-a-Skilled-Reader-recruitment"
+  text="What Makes a Skilled Reader?"
+  icon="fas fa-arrow-right"
+  flip=true
+%}
+{:.center}
 
-  image2="images/photo.jpg"
-  link2="participate/Madworld-Mango-recruitment"
-  tooltip2="The Madworld-Mango Project"
+{%
+  include link.html
+  link="participate/Madworld-Mango-recruitment"
+  text="The Madworld-Mango Languages Project"
+  icon="fas fa-arrow-right"
+  flip=true
+%}
+{:.center}
 
-  image3="images/photo.jpg"
-  link3="participate/Aphasia-recruitment"
-  tooltip3="Developing a Prototype of a Computer-Based Therapy for Aphasia"
+{%
+  include link.html
+  link="participate/Aphasia-recruitment"
+  text="Developing a Prototype of a Computer-Based Therapy for Aphasia: Usability Testing and Preliminary Assessment of Efficacy"
+  icon="fas fa-arrow-right"
+  flip=true
+%}
+{:.center}
 
-  image4="images/photo.jpg"
-  link4="participate/BCI-recruitment"
-  tooltip4="Brain-Computer Interfaces"
+{%
+  include link.html
+  link="participate/BCI-recruitment"
+  text="Novel Hybrid-Input Brain-Computer Interface to Improve Target Response Distinction and Classification Accuracy"
+  icon="fas fa-arrow-right"
+  flip=true
 %}
 {:.center}
 
