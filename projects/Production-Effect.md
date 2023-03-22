@@ -1,5 +1,5 @@
 ---
-title: Production Effect Project
+title: Production Effect
 ---
 
 # Neural correlates of the Production Effect
