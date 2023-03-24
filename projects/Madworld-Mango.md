@@ -36,6 +36,8 @@ Your English ability will be assessed by the TrueNorth test at the start and end
 ## Do you want to participate in this study?
 Please go to [this link](https://bit.ly/3wNinP9) to get started
 
-
 If you have any questions, please email us at [madworld@dal.ca](mailto:madworld@dal.ca)
 
+## Funding
+
+This project is part of a larger Partnership Grant funded by SSHRC.
