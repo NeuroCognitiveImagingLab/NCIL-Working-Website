@@ -38,6 +38,8 @@ Great people doing amazing work is what makes NCIL. Here’s who we are:
 
 ## Collaborators
 
+{% include section.html %}
+
 ## Partners
 {%
   include gallery.html
@@ -64,18 +66,8 @@ Great people doing amazing work is what makes NCIL. Here’s who we are:
 
 %}
 
-## Alumni
-Gone but never forgotten.
-These are past lab members who have moved on to other school programs, new jobs, or elsewhere.
-
-{% include list.html data="members" component="portrait" filters="role: pi, group: alum" style="small" %}
-{% include list.html data="members" component="portrait" filters="role: postdoc, group: alum" style="small" %}
-{% include list.html data="members" component="portrait" filters="role: phd, group: alum" style="small" %}
-{% include list.html data="members" component="portrait" filters="role: undergrad, group: alum" style="small" %}
-{% include list.html data="members" component="portrait" filters="role: programmer, group: alum" style="small" %}
-{% include list.html data="members" component="portrait" filters="role: mascot, group: alum" style="small" %}
-
 {% include section.html %}
+
 
 ## Funding
 Our work is made possible by funding from several organizations.
@@ -92,8 +84,27 @@ Our work is made possible by funding from several organizations.
   link2="https://www.nserc-crsng.gc.ca/index_eng.asp"
   tooltip2="NSERC"
 
-  image3="images/DMRF_Logo.svg"
-  link3="https://dmrf.ca/"
-  tooltip3="DMRF"
+  image3="images/BRC_logo.png"
+  link3="https://www.brainrepair.ca/"
+  tooltip3="Brain Repair Centre"
+
+  image4="images/Mitacs.png"
+  link4="https://www.mitacs.ca/en"
+  tooltip4="Mitacs"
 
 %}
+
+{% include section.html %}
+
+## Alumni
+Gone but never forgotten.
+These are past lab members who have moved on to other school programs, new jobs, or elsewhere.
+
+{% include list.html data="members" component="portrait" filters="role: pi, group: alum" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: postdoc, group: alum" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: phd, group: alum" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: undergrad, group: alum" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: programmer, group: alum" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: mascot, group: alum" style="small" %}
+
+{% include section.html %}
