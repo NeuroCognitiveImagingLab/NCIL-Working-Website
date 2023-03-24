@@ -1,19 +1,24 @@
 ---
-title: Madworld-Mango
+title: MADworld-Mango
 ---
-## The Madworld-Mango Languages Project
+## The MADworld-Mango Languages Project
 
-The goal of this study is to learn if an app is useful in helping people to improve their English abilities. The NeuroCognitive Imaging Lab at Dalhousie University has partnered with the Mango Languages app to conduct this study.
+The goal of this study is to learn if a digital app is useful in helping newcomers to Canada improve their English abilities. The NeuroCognitive Imaging Lab at Dalhousie University has partnered with Simon Fraser University and Mango Languages to conduct this study.
 ## What You Will Be Asked to Do
-We are currently recruiting people to take part in this study. If you are interested in participating, you will be given a choice to "consent" (agree) to take part in the study. If you agree to participate, you will complete some questionnaires and tests online, and then you will be given free access to an ESL (English as a second language) program offered through the app, Mango Languages. You will be asked to use the Mango Languages app to play games intended to help improve your English. We ask that you try to use the app at 1 hour per week, for a period of 8 weeks. We recommend that you practice for 20 minutes, 3 times per week, but that is up to you. At the end of 8 weeks, you will be asked to do a final test of your English abilities.
+We are currently recruiting people to take part in this study. If you are interested in participating, you will be given a choice to "consent" (agree) to take part in the study. If you agree to participate, you will complete questionnaires and tests online, and then you will be given free access to an ESL (English as a second language) program offered through the app, Mango Languages. You will be asked to use the Mango Languages app to play games intended to help improve your English. We ask that you try to use the app at least 1 hour per week, for a period of 8 weeks. We recommend that you practice for 20 minutes, 3 times per week, but that is up to you. At the end of 8 weeks, you will be asked to do a final test of your English abilities.
 
 ## Who Can Take Part in this Research Study
 
 You may participate in this study if you are:
-Age 17 years or older
-Currently living in Canada
-Not a native English speaker
+
+Age 17 years or older,
+
+Currently living in Canada,
+
+Not a native English speaker, and
+
 A fluent speaker of one of the languages for which Mango Languages has an ESL program (Mango Languages provides ESL courses for speakers of over 20 languages, including Bengali, Haitian Creole, Hmong, Mandarin, Arabic (Egyptian), Arabic (MSA), Armenian, Cantonese, French, German, Greek, Italian, Japanese, Korean, Polish, Portuguese, Russian, Somali, Spanish, Turkish, Vietnamese). For the full list [click here](https://mangolanguages.com/available-languages/english-courses/)
+
 You must also have use of a computer or mobile device that meets the minimum technical requirements of the online platforms used for this study.
 
 
