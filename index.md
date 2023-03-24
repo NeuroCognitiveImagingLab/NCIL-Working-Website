@@ -69,7 +69,7 @@ To support the growth of the field, lab director Dr. Aaron Newman has written te
 
 {% include section.html full=true %}
 
-{% include banner.html image="images/cindy_eeg_1.JPG" %}
+{% include banner.html image="images/cindy_eeg_1.JPG" height="400px" %}
 
 {% include section.html %}
 
