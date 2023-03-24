@@ -44,7 +44,7 @@ Current research projects in the lab are focused on a number of different topics
 
 {% include section.html full=true %}
 
-{% include banner.html image="images/aaron_with_book.jpg" %}
+{% include banner.html image="images/aaron_with_book.jpg" height="400px"%}
 
 {% include section.html %}
 
