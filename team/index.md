@@ -37,6 +37,7 @@ Great people doing amazing work is what makes NCIL. Here’s who we are:
 {% include section.html %}
 
 ## Collaborators
+{% include section.html %}
 
 ## Partners
 {%
